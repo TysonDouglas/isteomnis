@@ -1,0 +1,21 @@
+{
+  "name": "isteomnis",
+  "version": "1.0.0",
+  "description": "resouce loader",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TysonDouglas/isteomnis.git"
+  },
+  "keywords": [
+    "dolores",
+    "fis3",
+    "velit"
+  ],
+  "author": "CliftonCummerata",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/TysonDouglas/isteomnis.git/issues"
+  },
+  "homepage": "https://github.com/TysonDouglas/isteomnis.git"
+}
